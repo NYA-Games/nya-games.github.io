@@ -10,7 +10,7 @@ _Every want to jump into a another world - one you created or one from a book or
 
 # Games In Development
 
-The following games are in development and open to testing/feedbac:
+The following games are in development and open to testing/feedback:
 N/A.
 
 ## All Products
