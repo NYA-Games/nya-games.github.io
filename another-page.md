@@ -4,10 +4,10 @@ layout: default
 
 ##  Resume
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar_result1.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  Contact: Use Contact Me on this website.
 </span>
 
 # Gabriela Barrera  
