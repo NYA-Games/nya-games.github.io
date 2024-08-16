@@ -6,10 +6,6 @@ layout: default
 
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar_result1.png" />
 
-<span style="float:right;padding:6px"> 
-  Contact: Use Contact Me on this website.
-</span>
-
 # Gabriela Barrera  
 
 ## Executive Summary
@@ -19,36 +15,37 @@ conducting executive briefs, influencing strategy, and driving operational excel
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### U.S. Army (Analyst, Project Manager, 2019/07 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Led analysis in machine learning, optimization techniques, wargames, and modeling.
+* Innovator and communicator, ensured deployment of technologies and products.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### MIT Lincoln Lab (Student Researcher, 2017/06 - 2019/07) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
-
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Directed design of novel use cases of technology for humanitarian assistance and disaster response.
+* Completed research in user-based design, machine learning, and remote sensing. 
 
 ## Projects: 
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - code to train a model and evaluate bias in AI tools
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Google UX Design, Certification (In Progress)
+* Applied Data Science Program, Certificate (2023)
+* M.S. Mechanical Engineering, MIT (2019)
+* M.S. Technology and Policy, MIT (2019)
+* B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
+
+## Conferences and Publications
+* Primary Presenter, Army Operations Research Science Symposium (2023)
+* Presenter, 91st Military Operations Research Science Symposium (2023)
+* Presenter, 16th International Conference on Information Systems for Crisis Response and Management (2019)
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (good), Spanish (fluent/native)
+* Volunteer: Women in Technology, Rosie Riveters
+* Availability: May 2025
 
 [back](./)
