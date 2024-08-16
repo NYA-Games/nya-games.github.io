@@ -13,7 +13,7 @@ layout: default
 The following games are in development and open to testing/feedbac:
 N/A.
 
-## Header 2
+## All Products
 
 > Games ready to buy! Click below.
 
