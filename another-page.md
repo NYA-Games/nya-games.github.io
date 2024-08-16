@@ -4,7 +4,7 @@ layout: default
 
 ##  Resume
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar_result1.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar_result1.png" />
 
 <span style="float:right;padding:6px"> 
   Contact: Use Contact Me on this website.
