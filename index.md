@@ -6,7 +6,7 @@ _Every want to jump into a another world - one you created or one from a book or
 
 **That's the goal of Not Your Abuelita's Games.** There's worlds out there that we have yet to explore. As my Abuelita would say, vamos. Let's go.
 
-[View my Online Resume/CV](./another-page.html).
+[View my Online Resume/CV](./resume.html).
 
 # Games In Development
 
