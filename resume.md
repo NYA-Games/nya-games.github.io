@@ -41,7 +41,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 
 ## Misc. Information
 
-* Languages: English (good), Spanish (fluent/native)
+* Languages: English, Spanish (fluent/native)
 * Volunteer: Women in Technology, Rosie Riveters
 * Availability: May 2025
 
