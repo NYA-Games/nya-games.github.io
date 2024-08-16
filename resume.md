@@ -8,17 +8,14 @@ layout: default
 
 # Gabriela Barrera  
 
-## Executive Summary
-
-Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in 
-conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling
+Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling
 
 ## Working Experience
 
 #### U.S. Army (Analyst, Project Manager, 2019/07 - present) 
 
 * Led analysis in machine learning, optimization techniques, wargames, and modeling.
-* Innovator and communicator, ensured deployment of technologies and products.
+* Innovator and communicator, ensured team success and deployment of technologies and products.
 
 #### MIT Lincoln Lab (Student Researcher, 2017/06 - 2019/07) 
 
