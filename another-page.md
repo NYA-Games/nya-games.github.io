@@ -2,22 +2,20 @@
 layout: default
 ---
 
-## Welcome to another page
+##  Resume
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar.jpg" />
 
 <span style="float:right;padding:6px"> 
   someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
 </span>
 
-# Casualwriter  
+# Gabriela Barrera  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in 
+conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling
 
 ## Working Experience
 
