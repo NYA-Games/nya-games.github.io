@@ -6,12 +6,12 @@ _Every want to jump into a another world?_
 
 **That's the goal of Not Your Abuelita's (NYA) Games.** There's worlds out there that we have yet to explore. As my Abuelita would say, vamos. Let's go.
 
-[View my Online Resume/CV](./resume.html).
+
 
 # Games In Development
 
 The following games are in development and open to testing/feedback:
-N/A.
+[View Game1_X_](./game01.html).
 
 ## All Products
 
